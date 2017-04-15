@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable/rounded_left_bg_white.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable/rounded_left_bg_white.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable/rounded_right_bg_white.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable/rounded_right_bg_white.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable/rounded_right_bg_blue.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable/rounded_right_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable/rounded_left_bg_blue.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable/rounded_left_bg_blue.xml"
+    }
+]

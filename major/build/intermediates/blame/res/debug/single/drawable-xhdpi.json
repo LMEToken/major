@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/first.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/first.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_up.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_right.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/six.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/six.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/second.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/second.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/base_list_scrollbar_handle.9.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/base_list_scrollbar_handle.9.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/forth.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/forth.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/left_arrow.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/left_arrow.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/five.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/five.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/com_list_divider.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/com_list_divider.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_down.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/drawable-xhdpi/third.png",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/drawable-xhdpi/third.png"
+    }
+]

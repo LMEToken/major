@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/test_item.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/test_item.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/loadingprogressdialog.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/loadingprogressdialog.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/activity_anwser_question.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/activity_anwser_question.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/cowork_comment_groupview.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/cowork_comment_groupview.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/cowork_comment_childview.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/cowork_comment_childview.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/item_check.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/item_check.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/activity_cowork_comment.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/activity_cowork_comment.xml"
+    },
+    {
+        "merged": "/Users/tom/Desktop/major/major/build/intermediates/res/merged/debug/layout/base_item.xml",
+        "source": "/Users/tom/Desktop/major/major/src/main/res/layout/base_item.xml"
+    }
+]

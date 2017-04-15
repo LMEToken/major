@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tom/Desktop/major/major/libs/ormlite-core-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Users/tom/Desktop/major/major/build/intermediates/pre-dexed/debug/ormlite-core-4.48_8b9a1527dbf82cb9dc7bf269639d0dbf8c3ea088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tom/Desktop/major/major/libs/ormlite-android-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Users/tom/Desktop/major/major/build/intermediates/pre-dexed/debug/ormlite-android-4.48_b24014437e903fab5ab610e6de3c6018c2fac9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tom/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/tom/Desktop/major/major/build/intermediates/pre-dexed/debug/support-v4-19.1.0_18431adc1e2694d760404f8a4e962200cb455615.jar" />
+    </item>
+
+</items>

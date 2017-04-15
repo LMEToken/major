@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/this_blue"
+        android:paddingLeft="10dp" >
+
+        <ImageView
+            android:id="@+id/arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:src="@drawable/left_arrow" />
+
+        <TextView
+            style="@style/normalText"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:text="@string/title_question"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+    <ExpandableListView
+        android:id="@+id/eListView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:childDivider="@drawable/com_list_divider"
+        android:divider="@drawable/com_list_divider"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:scrollbarThumbVertical="@drawable/base_list_scrollbar_handle" />
+
+</LinearLayout>

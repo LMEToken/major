@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Normal Colors -->
+     <color name="transparent">#00000000</color>
+    <color name="dark_gray">#5E5C5C</color>
+    <color name="dark_text">#474747</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_white">#FEFEFE</color>
+    <color name="black">#000000</color>
+    <color name="dark_black">#333333</color>
+    <color name="grey">#EBEBEB</color>
+    <color name="red">#b70000</color>
+    <color name="dark_red">#D03E53</color>
+    <color name="bright_red">#FF005C</color>
+    <color name="green">#00ff00</color>
+    <color name="light_blue">#0279ec</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="dark_white">#F7F7F7</color>
+    <color name="gray2">#b5b5b5</color>
+    <color name="light_gray">#f2f2f3</color>
+    <color name="dark_green">#189a18</color>
+    <color name="light_green">#F8F8EE</color>
+    <!-- text color -->
+    <color name="text_color">@color/dark_gray</color>
+    <!-- Title -->
+    <color name="title_background_blue">#0175B3</color>
+    <color name="title_background_gray">#F8F8F8</color>
+    <color name="title_background_color">@color/title_background_gray</color>
+    <color name="title_action_text_color">@color/light_blue</color>
+    <color name="title_title_text_color">@color/dark_gray</color>
+    <!-- big button background color -->
+    <color name="big_button_white">#FFFFFF</color>
+    <color name="big_button_blue">#5CAEE1</color>
+    <color name="big_button_red">#DA4F49</color>
+    <color name="big_button_text_white">#FFFFFF</color>
+    <color name="big_button_text_blue">#5CAEE1</color>
+    <!-- ios colors -->
+    <color name="this_blue">#48B4E1</color>
+    <color name="background_gray">#E5E5E5</color>
+    <color name="tile_back_gray">#F8F8F8</color>
+    <color name="bottom_back_gray">#F9F9F9</color>
+    <color name="section_back_gray">#f7f7f7</color>
+    <color name="fore_blue">#0a5ffe</color>
+    <color name="fore_gray">#929292</color>
+    <!-- list items -->
+    <color name="pressed_color">#f9f5ed</color>
+    <color name="normal_color">#ffffff</color>
+    <!-- single select item ext -->
+    <color name="item_bg_pressed_color">#f0ffff</color>
+    <color name="item_bg_normal_color">#ffffff</color>
+    <color name="list_divider_color">#c9c9c9</color>
+    <color name="toast_bg_color">#ec595757</color>
+    <color name="divider_color">#d9d9d9</color>
+
+</resources>
